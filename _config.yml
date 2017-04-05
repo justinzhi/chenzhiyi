@@ -1,28 +1,18 @@
 url: http://www.seohzz.com
 
-title: Select Web
+title: 个人介绍
 
-keywords: 顺德SEO,顺德网站建设,顺德网站推广,顺德网络营销
+keywords: 陈智毅
 
-description: Select Web是分享顺德SEO、网站建设、网站推广和网络营销的博客，为企业提供专业的SEO、网站建设、网站推广和网络营销顾问服务。
+description: 陈智毅是广州医学院第三附属医院超声医学科主任，美国Drexel University访问学者，华中科技大学兼职硕士生导师。
 
 relative_permalinks: false
 
-contacts: 黄生
+contacts: 陈生
 
-tel: 13790019668
+tel: 13890019668
 
-assets:
-  dirname: assets
-  baseurl: /assets/
-  sources:
-    - _assets/js
-    - _assets/css
-  js_compressor: uglifier
-  css_compressor: sass
-  cache: true
-  cache_assets: true
-  gzip: []
+
 
 exclude:
   - README.md
